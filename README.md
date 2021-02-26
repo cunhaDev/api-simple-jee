@@ -1,4 +1,4 @@
-# Sistema Básico com Java Web (JEE
+# Sistema Básico com Java Web (JEE)
 
 Desenvolvendo um Sistema web básico com Jee e banco de Dados local em ArrayList
 
